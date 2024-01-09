@@ -1,6 +1,6 @@
 # TODO LIST with dnd and editing text
 
-##Technologies:
+## Technologies:
 React, typescript, tailwind, radix, react-query, zustand, axios, usehooks-ts
 
 <p>
