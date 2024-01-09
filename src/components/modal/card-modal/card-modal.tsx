@@ -2,13 +2,7 @@ import { Textarea } from '../../ui/textarea';
 import { Input } from '../../ui/input';
 import { Label } from '../../ui/label';
 import { useCardModal } from '../../../store/use-card-modal';
-import {
-  Dialog,
-  DialogContent,
-  DialogClose,
-  DialogDescription,
-  DialogTitle,
-} from '../../ui/dialog';
+import { Dialog, DialogContent, DialogTitle } from '../../ui/dialog';
 import { useEffect, useState } from 'react';
 import { cn } from '../../../lib/utils';
 import { RadioGroup, RadioGroupItem } from '../../ui/radio';
